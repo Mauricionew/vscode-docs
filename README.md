@@ -1,4 +1,4 @@
-<p align="center">
+02669aa5-80dc-41e3-9cf5-42d12e30ad2b<p align="center">
   <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
 </p>
